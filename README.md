@@ -1,3 +1,3 @@
-# Unity-Primitive
+# Unity-Prototype2-Basic-GamePlay
 
-basic deer-running game in Unity (also stored in Unity Cloud, GitHub for another back up)
+basic farming game in Unity (also stored in Unity Cloud, GitHub for another backup)
